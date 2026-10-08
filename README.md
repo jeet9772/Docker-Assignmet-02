@@ -135,6 +135,9 @@ Hello from Jeetendra
 This webpage is running inside a Docker container.
 ```
 
+<img width="1440" height="900" alt="Screenshot 2026-10-07 at 8 30 42 PM" src="https://github.com/user-attachments/assets/41e09f12-1265-4bed-a1c8-049d0f12ccf9" />
+
+
 The webpage was successfully tested from the browser.
 
 ---
@@ -146,6 +149,7 @@ The webpage can also be tested using:
 ```bash
 curl http://localhost:8080/index.html
 ```
+<img width="1440" height="900" alt="Screenshot 2026-10-08 at 8 27 18 AM" src="https://github.com/user-attachments/assets/30a96bf2-0156-4a54-9109-a89256e35367" />
 
 Expected output contains:
 
@@ -177,6 +181,8 @@ Verify:
 docker ps -a
 docker images
 ```
+<img width="1440" height="900" alt="Screenshot 2026-10-08 at 8 28 27 AM" src="https://github.com/user-attachments/assets/af8d8bca-8aa4-44f8-b917-370498793bc2" />
+
 
 The custom container and image should no longer be present.
 
